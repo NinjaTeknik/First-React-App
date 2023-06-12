@@ -7,7 +7,7 @@ import Profile from './components/Profile';
 function App() {
   return ( 
   <div className="App">
-    <Profile name="NN" lastnaame="N.N."/>
+    <Profile name="NN" lastname="N.N."/>
   </div>
   );
 }
