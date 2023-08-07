@@ -9,12 +9,13 @@ import "./App.css";
 //import FunctionEvent from './components/FunctionEvent';
 //import ClassEvent from './components/ClassEvent';
 //import ConditionalComponent from "./components/ConditionalComponent";
-import Product from "./components/Product";
+//import Product from "./components/Product";
+import Form from "./components/Form";
 
 function App() {
   return (
     <div className="App">
-      <Product></Product>
+      <Form></Form>
     </div>
   );
 }
