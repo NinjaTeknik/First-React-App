@@ -11,12 +11,13 @@ import "./App.css";
 //import ConditionalComponent from "./components/ConditionalComponent";
 //import Product from "./components/Product";
 //import Form from "./components/Form";
-import Todo from "./components/Todo";
+//import Todo from "./components/Todo";
+import InlineComponent from "./components/InlineComponent";
 
 function App() {
   return (
     <div className="App">
-      <Todo></Todo>
+      <InlineComponent></InlineComponent>
     </div>
   );
 }
